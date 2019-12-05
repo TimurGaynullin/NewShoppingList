@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\GaynullinTA\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\GaynullinTA\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_ShoppingList.-218961654.00" t="ExcludeRecursive" />
+    <e p="C:\Users\GaynullinTA\source\repos\3\Shopping\ShoppingList" t="IncludeFlat">
+      <e p="Api" t="Include" />
+      <e p="Domain" t="Include" />
+      <e p="External" t="Include" />
+      <e p="Host" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Shopping List" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Shopping List.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Shopping List.csproj" t="IncludeRecursive" />
+        <e p="Startup.cs" t="Include" />
+        <e p="wwwroot" t="Include" />
+      </e>
+      <e p="ShoppingList.DataBase" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DataContext.cs" t="Include" />
+        <e p="Migrations" t="Include">
+          <e p="20190923135811_Initial.cs" t="Include" />
+          <e p="20190923135811_Initial.Designer.cs" t="Include" />
+          <e p="20190927135426_Initial2.cs" t="Include" />
+          <e p="20190927135426_Initial2.Designer.cs" t="Include" />
+          <e p="20190927135550_Initial3.cs" t="Include" />
+          <e p="20190927135550_Initial3.Designer.cs" t="Include" />
+          <e p="20190927140116_Initial4.cs" t="Include" />
+          <e p="20190927140116_Initial4.Designer.cs" t="Include" />
+          <e p="20190930124759_Initial5.cs" t="Include" />
+          <e p="20190930124759_Initial5.Designer.cs" t="Include" />
+          <e p="20190930131908_Initial6.cs" t="Include" />
+          <e p="20190930131908_Initial6.Designer.cs" t="Include" />
+          <e p="DataContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="ShoppingList.DataBase.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Password.cs" t="Include" />
+        <e p="Purchase.cs" t="Include" />
+        <e p="ShoppingList.DataBase.csproj" t="IncludeRecursive" />
+        <e p="User.cs" t="Include" />
+      </e>
+      <e p="ShoppingList.Domain" t="IncludeRecursive">
+        <e p="Abstractions" t="Include">
+          <e p="IShoppingService.cs" t="Include" />
+          <e p="IValidationService.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Hasher.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="ShoppingList.Domain.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PasswordPolicy.cs" t="Include" />
+        <e p="ShoppingList.Domain.csproj" t="IncludeRecursive" />
+        <e p="ShoppingService.cs" t="Include" />
+        <e p="ValidationService.cs" t="Include" />
+      </e>
+      <e p="ShoppingList.sln" t="IncludeFlat" />
+      <e p="ShoppingListControllers" t="IncludeRecursive">
+        <e p="AccountController.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="ShoppingList.Controllers.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ShoppingList.Controllers.csproj" t="IncludeRecursive" />
+        <e p="ShoppingListController.cs" t="Include" />
+        <e p="TimeController.cs" t="Include" />
+        <e p="ViewModels" t="Include">
+          <e p="LoginModel.cs" t="Include" />
+          <e p="RegisterModel.cs" t="Include" />
+        </e>
+      </e>
+    </e>
+  </component>
+</project>
